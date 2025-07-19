@@ -1,7 +1,7 @@
 # 💫 About Me:
 🎓 B.Tech Graduate | 💻 Aspiring Software Developer | 🚀 Always Learning
 
-Hi there! I'm **Shreyash Barsagade**, a recent B.Tech graduate passionate about coding, development, and building real-world solutions with technology. I'm actively working on personal projects to enhance my skills and looking forward to exciting opportunities in software development, web/app development, and machine learning.
+Hi there! I'm **Shreyash Barsagade**, a recent B.Tech graduate passionate about coding, development, and building real-world solutions with technology. I'm actively working on personal projects to enhance my skills and looking forward to exciting opportunities in software development, web/app development, and java.
 
 ---
 
