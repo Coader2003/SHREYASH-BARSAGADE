@@ -26,7 +26,7 @@ recommendations. (Tech used: Java,Xml,Android Studio,python,Jupiter notebook,fir
 ## 📫 How to reach me:
 - LinkedIn: www.linkedin.com/in/shreyash-barsagade-416565321
 - Email: shreyashbarsagade721@gmail.com
-- Portfolio: 
+- Portfolio: https://ubiquitous-sawine-97c8c0.netlify.app/
 
 ---
 
